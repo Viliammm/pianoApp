@@ -1,0 +1,119 @@
+body{
+	background: #BA8B02;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to bottom, #181818, #BA8B02);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to top, #181818, #BA8B02); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1{
+	font-size: 3rem;	
+	font-weight: 400;
+	letter-spacing: 0.2rem;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+td{
+	border: 2px solid #820a48;
+	padding: 0.5rem;
+}
+
+.container{
+	font-family: 'Merriweather', serif;
+	margin: 0 auto;
+	width: 80%;
+}
+
+.keyboard{
+	border: 1px dotted red;
+	height: 300px;
+	margin: 100px auto;
+	width: 360px;
+}
+
+.key{
+	border: 1px solid black;
+	float:left;
+	font-family: 'Merriweather', serif;
+	font-size: 1.1rem;
+	outline: none;
+	position: absolute;
+}
+
+.white{
+	background-color: white;
+	color: black;
+	float: left;
+	height: 240px;
+	padding-top: 12rem;
+	width: 40px;
+}
+
+.black{
+	background-color: black;
+	border-radius: 0 0 5px 5px;
+	color: white;
+	height: 150px;
+	padding-top: 6rem;
+	width: 32px;
+	z-index: 2;
+}
+
+.pressed {
+	box-shadow: inset 0 0 3px 3px #AAA;
+}
+
+/*--- CSS FOR POSITION OF EACH KEY ---*/
+
+.c3{
+	border-radius: 5px 0 0 5px;
+	margin-left: 40px;
+}
+
+.cis3{
+	margin-left: 64px;
+}
+
+.d3{
+	margin-left: 80px;
+}
+
+.dis3{
+	margin-left: 104px;
+}
+
+.e3{
+	margin-left: 120px;
+}
+
+.f3{
+	margin-left: 160px;
+}
+
+.fis3{
+	margin-left: 184px;
+}
+
+.g3{
+	margin-left: 200px;
+}
+
+.gis3{
+	margin-left: 224px;
+}
+
+.a3{
+	margin-left: 240px;
+}
+
+.ais3{
+	margin-left: 264px;
+}
+
+.b3{
+	border-radius: 0 5px 5px 0;
+	margin-left: 280px;
+}
