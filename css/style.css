@@ -31,6 +31,7 @@ td{
 	border: 1px dotted red;
 	height: 300px;
 	margin: 100px auto;
+	user-select: none;
 	width: 360px;
 }
 
