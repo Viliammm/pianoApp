@@ -1,4 +1,4 @@
-alert("Hi, the app is quite messy right now. Currently I am trying to figure out a functionality for switching between multiple octaves. For now, only one octave is working. Sorry);
+alert("Hi, the app is quite messy right now. Currently I am trying to figure out a functionality for switching between multiple octaves. For now, only one octave is working. Sorry");
 
 var c1 = new Audio ("sounds_new/1.C1.mp3");
 var cis1 = new Audio ("sounds_new/2.Cis1.mp3");
