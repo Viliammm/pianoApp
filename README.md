@@ -1,3 +1,3 @@
-# pianoApp
-<h2>A website for my piano app</h2>
-<p>Functionality is being worked on, so for now it is only a facade.</p>
+This is a website for my piano app. The website is under construction, for now, the functionality is somehow restricted, and the website is also not very beautiful.
+
+Toto je stránka pro mojí piano aplikaci. Na stránce momentálně pracuji, zatím je její funkcionalita poněkud omezená. Vzhled stránky zatím také není finální.
